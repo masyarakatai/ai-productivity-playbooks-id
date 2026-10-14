@@ -14,16 +14,16 @@ Fokus awalnya terinspirasi dari kebutuhan komunitas AI untuk produktivitas: kerj
 
 Pilih satu playbook:
 
-- [Rapat menjadi rencana eksekusi](playbooks/kerja/rapat-menjadi-rencana-eksekusi.md)
-- [Satu ide menjadi konten multi-platform](playbooks/konten/satu-ide-menjadi-konten-multi-platform.md)
-- [Umpan balik pelanggan menjadi prioritas aksi](playbooks/bisnis/umpan-balik-pelanggan-menjadi-prioritas-aksi.md)
-- [CV dan lamaran kerja yang dapat diverifikasi](playbooks/karier/cv-dan-lamaran-yang-dapat-diverifikasi.md)
+- [Rapat menjadi rencana eksekusi](rapat-menjadi-rencana-eksekusi.md)
+- [Satu ide menjadi konten multi-platform](satu-ide-menjadi-konten-multi-platform.md)
+- [Umpan balik pelanggan menjadi prioritas aksi](umpan-balik-pelanggan-menjadi-prioritas-aksi.md)
+- [CV dan lamaran kerja yang dapat diverifikasi](cv-dan-lamaran-yang-dapat-diverifikasi.md)
 
 ## Bentuk kontribusi yang kami cari
 
 Kontribusi yang baik menyelesaikan masalah kerja nyata, bukan menambah variasi prompt tanpa konteks. Anda dapat:
 
-1. Menambahkan playbook domain Anda dengan [template](templates/playbook-template.md).
+1. Menambahkan playbook domain Anda dengan [template](playbook-template.md).
 2. Memperbaiki contoh, langkah verifikasi, atau aksesibilitas playbook yang ada.
 3. Menerjemahkan istilah dengan tetap menjaga makna dan konteks lokal Indonesia.
 4. Menambahkan studi kasus anonim yang memiliki izin publikasi.
